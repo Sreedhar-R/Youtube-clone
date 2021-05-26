@@ -1,0 +1,49 @@
+.ui-logo img{
+    height: 70px;
+    width: 230px;
+   
+}
+.ui-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ui-logo input{
+    height: 50px;
+    width: 40vw;
+    margin-left: 100px;
+    border-radius: 25px;
+    font-size: 35px;
+}
+.ui-logo button {
+    margin-left: 30px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+.ui-logo .search-icon{
+    font-size:35px;
+}
+.ui-logo input:hover {
+    border-color: rgb(214, 18, 18);
+  }
+
+  .ui-logo button:hover {
+    background-color: rgb(214, 18, 18);
+  }
+
+
+
+  .search-button{
+    display: inline;
+  }
+
+
+  .card-height iframe{
+    min-height: 360px;
+    min-width: 480px;
+ }
+
+ /* .ui-video{
+     display: flex;
+ } */
